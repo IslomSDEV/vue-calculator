@@ -1,0 +1,23 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+
+.container {
+    width: 800px;
+    height: 100vh;
+    margin: 0 auto;
+    background: #11072b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
